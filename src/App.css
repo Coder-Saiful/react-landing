@@ -1,0 +1,15 @@
+nav a {
+    color: white !important;
+}
+a.navbar-brand {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+
+.navbar {
+    padding: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 17px;
+}
